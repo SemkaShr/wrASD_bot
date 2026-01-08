@@ -1,0 +1,3 @@
+aiogram
+joblib
+scikit-learn
