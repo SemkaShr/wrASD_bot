@@ -1,4 +1,4 @@
-BOT_TOKEN = "8475372340:AAFSULT-6pYKkMYa4vSBK64ssUs2PfJVXl0"
+BOT_TOKEN = ""
 
 MODEL_PATH = "spam_detector_model.pkl"
 
@@ -9,4 +9,5 @@ THRESHOLDS = {
 }
 
 DEFAULT_MAX_WARNINGS = 3
+
 DEFAULT_PUNISHMENT = "ban"
